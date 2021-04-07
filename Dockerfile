@@ -6,4 +6,4 @@ COPY ./nginx.conf /etc/opt/rh/rh-nginx112/nginx/nginx.conf
 
 CMD ["nginx", "-g", "daemon off;"]
 
-###########FIM Dockerfile
+###########FIM Dockerfile#######
